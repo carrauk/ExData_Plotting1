@@ -1,7 +1,7 @@
 ## Part of Project1 submission for Exploratory Data Analytics Course on Coursea.
 ## Data not included in repository. Details for the data are in the ReadMe file.
 ## The script assumes the data is downloaded, extracted and placed in a sub-folder called 'data'
-
+ 
 # setwd("~/Documents/Data_Sci_Course/Exploritory Analysis/Project_1/Local_Repo")
 
 library(readr)
